@@ -1,1 +1,1 @@
-# A-path-planning-algorithm-in-ROS
+# A*-path-planning-algorithm-in-ROS
